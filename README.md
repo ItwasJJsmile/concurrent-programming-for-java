@@ -14,7 +14,8 @@
 ## 目录(Contents)
 
 - 1.多线程基础
-  - [创建并启动线程](https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.1chapter.html)
+   - <a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.1chapter.html" target="_blank">1.1 创建并启动线程</a>
+   - <a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.2chapter.html" target="_blank">1.2 线程的生命周期</a>
 
 ## 联系(Contact)
 
