@@ -13,10 +13,11 @@
 
 ## 目录(Contents)
 
-- 1.多线程基础
-   - [1.1 创建并启动线程](https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.1chapter.html)
-   - [1.2 线程的生命周期](https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.2chapter.html)
-   - [1.3 start方法源码剖析](https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.3chapter.html)
+- 1.多线程基础  
+   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.1chapter.html" target="_blank">1.1 创建并启动线程</a>  
+   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.2chapter.html" target="_blank">1.2 线程的生命周期</a>  
+   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.3chapter.html" target="_blank">1.3 start方法源码剖析</a>  
+   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.4chapter.html" target="_blank">1.4 Runnable接口详解</a>  
 
 ## 联系(Contact)
 
@@ -44,13 +45,3 @@
 ## 开源协议
 
 [MIT](LICENSE)
-
-
-<script type="text/javascript">  
-    $(document).ready(function() {  
-        //为超链接加上target='_blank'属性  
-        $('a[href^="http"]').each(function() {  
-            $(this).attr('target', '_blank');  
-        });  
-    });  
-</script>  
