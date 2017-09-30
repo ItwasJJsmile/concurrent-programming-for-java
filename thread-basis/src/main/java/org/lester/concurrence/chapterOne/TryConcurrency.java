@@ -9,10 +9,10 @@ public class TryConcurrency {
     public static void main(String[] args) {
 
         new Thread("READ-Thread"){
-            @Override
-            public void run() {
-                readFromDataBase();
-            }
+                @Override
+                public void run() {
+                    writeDataToFile();
+                }
         }.start();
 
         new Thread("WRITE-Thread"){
@@ -49,12 +49,8 @@ public class TryConcurrency {
         println("数据处理完成并成功完成。");
     }
 
-
     private static void println(String message) {
         System.out.println(message);
 
     }
-
-
-
 }
