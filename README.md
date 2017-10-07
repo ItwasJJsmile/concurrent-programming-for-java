@@ -4,7 +4,7 @@
 这个项目分为 [源码](https://github.com/junicorn/concurrent-programming-for-java) 和 [在线阅读](https://www.gitbook.com/book/dr-lester/concurrent-programming-for-java/details),
 源码使用 Maven 构建，涉及多线程基础、多线程设计模式、JDK并发包详细介绍、并发编程深入等知识。**拥有初学者的心态是件了不起的事情**
 
-[![Build Status](https://img.shields.io/travis/junicorn/concurrent-programming-for-java.svg)](https://travis-ci.org/biezhi/oh-my-email)
+[![Build Status](https://img.shields.io/travis/junicorn/concurrent-programming-for-java.svg)](https://travis-ci.org/junicorn/concurrent-programming-for-java)
 [![junicorn](https://img.shields.io/badge/Java开源社区-junicorn-green.svg)](https://github.com/junicorn)
 [![License](https://img.shields.io/badge/license-MIT-4EB1BA.svg)](LICENSE)
 
