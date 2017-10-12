@@ -1,9 +1,9 @@
 package org.lester.concurrence.chapterTwo;
 
 /**
- * Created by Godql on 2017/10/1.
+ * Created by Dr.Lester on 2017/10/1.
  */
-public class CalculativeStrategyImpl implements ICalculativeStrategy {
+public class ICalculativeStrategyImpl implements ICalculativeStrategy {
 
     private final static double SALARY_RATE = 0.1;
     private final static double BONUS_RATE = 0.15;

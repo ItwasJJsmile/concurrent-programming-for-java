@@ -1,7 +1,7 @@
 package org.lester.concurrence.chapterTwo;
 
 /**
- * Created by Godql on 2017/10/1.
+ * Created by Dr.Lester on 2017/10/1.
  * 计算器：计算税务
  */
 public class TaxCalculator {
