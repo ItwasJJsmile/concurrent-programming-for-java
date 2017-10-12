@@ -18,7 +18,7 @@
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.2chapter.html" target="_blank">1.2 线程的生命周期</a>  
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.3chapter.html" target="_blank">1.3 start方法源码剖析</a>  
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.4chapter.html" target="_blank">1.4 Runnable接口详解</a>  
-   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.5chapter.html" target="_blank">1.4 Thread Api详解</a>  
+   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.5chapter.html" target="_blank">1.5 Thread Api详解</a>  
 
 ## 联系(Contact)
 
