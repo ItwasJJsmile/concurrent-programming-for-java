@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.lester</groupId>
-    <artifactId>parent</artifactId>
+    <artifactId>concurrent-programming-for-java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -22,6 +22,18 @@
         <junit.version>4.12</junit.version>
     </properties>
 
+    <dependencyManagement>
+        <dependencies>
+        
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.version}</version>
+            </dependency>
+
+        </dependencies>
+    </dependencyManagement>
+
     <build>
         <plugins>
             <plugin>
@@ -34,17 +46,5 @@
             </plugin>
         </plugins>
     </build>
-
-    <dependencyManagement>
-        <dependencies>
-        
-            <dependency>
-                <groupId>junit</groupId>
-                <artifactId>junit</artifactId>
-                <version>${junit.version}</version>
-            </dependency>
-            
-        </dependencies>
-    </dependencyManagement>
 
 </project>
