@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>org.lester</groupId>
-        <artifactId>parent</artifactId>
+        <artifactId>concurrent-programming-for-java</artifactId>
         <version>1.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
