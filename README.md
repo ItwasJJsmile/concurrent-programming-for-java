@@ -2,7 +2,8 @@
 
 该电子书是整理 Java 并发编程的一些笔记，希望可以带动更多开发者进入 Java 并发的世界。
 这个项目分为 [源码](https://github.com/junicorn/concurrent-programming-for-java) 和 [在线阅读](https://www.gitbook.com/book/dr-lester/concurrent-programming-for-java/details),
-源码使用 Maven 构建，涉及多线程基础、多线程设计模式、JDK并发包详细介绍、并发编程深入等知识。**拥有初学者的心态是件了不起的事情**
+源码使用 Maven 构建，涉及多线程基础、多线程设计模式、JDK并发包详细介绍、并发编程深入等知识。  
+**拥有初学者的心态是件了不起的事情**
 
 [![Build Status](https://img.shields.io/travis/junicorn/concurrent-programming-for-java.svg)](https://travis-ci.org/junicorn/concurrent-programming-for-java)
 [![junicorn](https://img.shields.io/badge/Java开源社区-junicorn-green.svg)](https://github.com/junicorn)
@@ -17,6 +18,7 @@
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.3chapter.html" target="_blank">1.3 start方法源码剖析</a>  
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.4chapter.html" target="_blank">1.4 Runnable接口详解</a>  
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.5chapter.html" target="_blank">1.5 Thread Api详解</a>  
+   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.6chapter.html" target="_blank">1.6 Daemon线程的创建以及使用场景分析</a>  
 
 ## 联系作者
 
