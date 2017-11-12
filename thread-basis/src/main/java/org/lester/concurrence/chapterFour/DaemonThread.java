@@ -25,6 +25,7 @@ public class DaemonThread {
 
         // runnable -> running | - >dead | -> blocked
         t.start();
+        t.getName();
 
         Thread.sleep(10_000);  // JDK1.7新特性
         System.out.println(Thread.currentThread().getName());
