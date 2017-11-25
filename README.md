@@ -20,6 +20,7 @@
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.5chapter.html" target="_blank">1.5 Thread Api详解</a>  
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.6chapter.html" target="_blank">1.6 Daemon线程的创建以及使用场景分析</a>  
    　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.7chapter.html" target="_blank">1.7 线程ID以及优先级</a>  
+   　<a href="https://dr-lester.gitbooks.io/concurrent-programming-for-java/content/headline/1.8chapter.html" target="_blank">1.8 Thread的join方法详解，结合一个典型案例</a>  
 
 ## 联系作者
 
